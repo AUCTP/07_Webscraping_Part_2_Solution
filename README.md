@@ -1,4 +1,4 @@
-# Session 8: Webscraping
+# Session 7: Webscraping
 In this session, you will learn the most important things you need to know about webscraping in Python using hidden APIs. Please solve the following tasks in the files ***task1.py*** and ***task2.py***.
 
 ## Task 1: Scraping Movie Data
